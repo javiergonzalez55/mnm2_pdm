@@ -368,7 +368,7 @@ carregarPorCategorias('todos')
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register("./service-worker.js");
-}
+};
 
 var pedidoInstalacao;
 window.addEventListener('beforeinstallprompt', function (installPrompt) {

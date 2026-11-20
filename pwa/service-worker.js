@@ -6,7 +6,7 @@ const arquivos = [
     "./imagens",
     "./index.html",
     "./script.js"
-]
+];
 
 self.addEventListener('install', function (event) {
     event.waitUntil(
