@@ -1,2 +1,2 @@
-# mnm1_pdm
-Projeto loja e-commerce Programaçao para Dispositivos Moveis
+# mnm2_pdm
+Projeto serviços de lavação. Programaçao para Dispositivos Moveis
